@@ -1,0 +1,52 @@
+.box {
+  width: 400px;
+  height: 162px;
+  margin:auto;
+  border: 1px solid #333333;
+}
+.clicktrack1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: auto;
+  border-spacing: 20px;
+}
+.box p {
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  position: relative;
+  margin-top: -5px;
+}
+input {
+  border: none;
+  background: transparent;
+  width: 10px;
+}
+#center {
+  text-align: center;
+}
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+input.red {
+  width: 80px;
+  height: 40px;
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  background-color: #d81010;
+}
+input.green {
+  width: 80px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  background-color: #026f02;
+}
