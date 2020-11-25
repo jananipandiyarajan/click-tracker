@@ -1,6 +1,6 @@
 .box {
   width: 100%;
-  height: 400px;
+  height: 200px;
   margin:auto;
   border: 1px solid #333333;
 }
@@ -35,21 +35,22 @@ input {
 }
 
 input.red {
-  display: block;
-  width: 100%;
   margin-right: 20px;
   font-size: 14px;
   font-weight: bold;
   color: white;
   background-color: #d81010;
+  width: 100%;
+  display: block;
 }
 
 input.green {
-  display: block;
-  width: 100%;
+  margin-right: 20px;
   font-size: 14px;
   font-weight: bold;
   color: white;
   background-color: #026f02;
+  width: 100%;
+  display: block;
 }
 
