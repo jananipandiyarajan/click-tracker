@@ -27,7 +27,7 @@ input {
   text-align: center;
 }
 .flex-parent {
-  display: flex;
+  display: block;
 }
 
 .jc-center {
@@ -41,7 +41,6 @@ input.red {
   color: white;
   background-color: #d81010;
   width: 100%;
-  display: block;
 }
 
 input.green {
@@ -51,6 +50,5 @@ input.green {
   color: white;
   background-color: #026f02;
   width: 100%;
-  display: block;
 }
 
