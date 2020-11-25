@@ -42,11 +42,3 @@ input.red {
   color: white;
   background-color: #d81010;
 }
-input.green {
-  display: block;
-  width: 100%;
-  font-size: 14px;
-  font-weight: bold;
-  color: white;
-  background-color: #026f02;
-}
